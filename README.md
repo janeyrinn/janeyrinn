@@ -4,8 +4,8 @@
 
 ![github_illustration2](https://user-images.githubusercontent.com/73706724/140033689-bfb7f8db-7499-48d3-9816-3c24ed797e97.png)
 
-- I'm currently learning Wordpress, Illustrator and PhotoShop
-- I'm looking to collaborate with Not-For-Profit and Charitable organisations who need help with their websites
+- I'm currently upskilling in SQL, Automation processes and PhotoShop
+- I'm happy to collaborate with Not-For-Profit and charitable organisations who need help with their websites
 - You can contact me at jane.rinn@gmail.com
 
 ### Connect with me
