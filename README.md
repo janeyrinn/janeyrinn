@@ -4,7 +4,7 @@
 
 ![github_illustration2](https://user-images.githubusercontent.com/73706724/140033689-bfb7f8db-7499-48d3-9816-3c24ed797e97.png)
 
-- I'm currently upskilling in SQL, Automation processes and PhotoShop
+- I'm currently upskilling in RPA and delving deeper into Python.
 - I'm happy to collaborate with Not-For-Profit and charitable organisations who need help with their websites
 - You can contact me at jane.rinn@gmail.com
 
