@@ -6,7 +6,6 @@
 
 - I'm currently upskilling in RPA and delving deeper into Python.
 - I'm happy to collaborate with Not-For-Profit and charitable organisations who need help with their websites
-- You can contact me at jane.rinn@gmail.com
 
 ### Connect with me
 
